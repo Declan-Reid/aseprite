@@ -1,3 +1,7 @@
+[![build](https://github.com/Declan-Reid/aseprite/actions/workflows/build.yml/badge.svg)](https://github.com/Declan-Reid/aseprite/actions/workflows/build.yml)
+
+----------------------------
+
 # Aseprite
 
 [![build](https://github.com/aseprite/aseprite/actions/workflows/build.yml/badge.svg)](https://github.com/aseprite/aseprite/actions/workflows/build.yml)
